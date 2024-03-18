@@ -1,11 +1,12 @@
 [package]
 name = "nedry"
+description = "Small bundler for C"
 version = "0.1.0"
 edition = "2021"
 authors = ["kaiyo hugo"]
 readme = "README.md"
 license = "MIT"
-repository = "github.com/kaiYOHUGO/nedry"
+repository = "https://github.com/kAIYOHUGO/Nedry"
 categories = ["command-line-utilities", "development-tools::build-utils"]
 keywords = ["cli", "generator", "bundler"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
