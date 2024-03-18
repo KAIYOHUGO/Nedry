@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # Nedry 🦖 - A bundler for C
 
@@ -6,7 +6,7 @@
 
 > You know anybody who can network 8 connection machine and debug **2 MILLION** lines of code.
 
-</center>
+</div>
 
 ## What is this
 
