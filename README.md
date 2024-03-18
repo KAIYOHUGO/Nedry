@@ -6,6 +6,8 @@
 
 > You know anybody who can network 8 connection machine and debug **2 MILLION** lines of code.
 
+[![Crates.io License](https://img.shields.io/crates/l/nedry)](https://github.com/KAIYOHUGO/Nedry/blob/master/LICENSE) [![Crates.io Version](https://img.shields.io/crates/v/nedry)](https://crates.io/crates/nedry) ![GitHub top language](https://img.shields.io/github/languages/top/kaiyohugo/nedry)
+
 </div>
 
 ## What is this
