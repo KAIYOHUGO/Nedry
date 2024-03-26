@@ -15,9 +15,13 @@ keywords = ["cli", "generator", "bundler"]
 name = "nedry"
 path = "src/main.rs"
 
+[profile.release]
+strip = true
+opt-level = "z"
+
 [dependencies]
 anyhow = "1.0.81"
-lang-c = "0.15.1"
+# lang-c = "0.15.1"
 
 
 [dependencies.clap]
